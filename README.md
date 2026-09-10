@@ -240,4 +240,4 @@ This repository serves as the official landing page for Age of Sparta. The softw
 **Get the most recent version of Age of Sparta today!**
 
 ---
-**Last updated:** 2026-09-10 11:03:16 UTC
+**Last updated:** 2026-09-10 16:13:30 UTC
